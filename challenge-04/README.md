@@ -142,22 +142,23 @@ retornar algum valor.
 
 Qual a cor atual do carro?
 */
-?
+carro.obterCor() // "Pretao"
 
 // Mude a cor do carro para vermelho.
-?
+
+carro.mudarCor("Vermelho") 
 
 // E agora, qual a cor do carro?
-?
+carro.obterCor() // "Vermelho"
 
 // Mude a cor do carro para verde musgo.
-?
+carro.mudarCor("verde musgo")
 
 // E agora, qual a cor do carro?
-?
+carro.obterCor() // "verde musgo"
 
 // Qual a marca e modelo do carro?
-?
+carro.obterMarcaModelo() // "Esse carro e um Toyota Civic Touring"
 
 // Adicione 2 pessoas no carro.
 ?
