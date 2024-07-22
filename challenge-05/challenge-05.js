@@ -27,7 +27,7 @@ segundo parâmetro.
 /*
 Declare uma variável que recebe um array com 5 valores, de tipos diferentes.
 */
-// ?
+// var arr = ['Joao', 1, true, null, undefined]
 
 /*
 Invoque a função criada acima, fazendo-a retornar todos os valores do último
